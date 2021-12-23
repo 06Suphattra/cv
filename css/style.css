@@ -1,20 +1,26 @@
-<style><body> {
-background-color: #eaf6f6;
+.background-body {
+    background-color: cornsilk;
+    color: plum;
 }
-        
-hr {
-border-style: none;
-border-top-style: dotted;
-border-color: greey;
-border-width: 20px;
-width: 30%;
-    }
+
 h1 {
-color: cyan;
+    color: rgb(88, 5, 121);
 }
-h2 {
-color: darkblue;
+
+b {
+    color: darkviolet;
 }
-h3 {
-color: lightseagreen;
+
+.Ying {
+    background-color: fuchsia;
+    
 }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: greey;
+    border-width: 20px;
+    width: 30%;
+}
+#Ying{}
